@@ -1,6 +1,6 @@
  # DigitTool
 
- This project was completed as a task of Programming Hero. Recently I learned about react, and i had to implement the concepts to build this project. It was great.
+ This project was completed as a task of Programming Hero. Recently I learned about react, and i had to implement the concepts to buid this project. It was fun
 
  ## Technology Used:
  * React.js
